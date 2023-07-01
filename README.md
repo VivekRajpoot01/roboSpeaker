@@ -1,4 +1,3 @@
-# roboSpeaker
 # Robo Speaker 1.0
 Robo Speaker 1.0 is a Python program that utilizes the pyttsx3 library to convert text into speech. This simple text-to-speech application allows users to input text and hear it spoken aloud by a robotic voice.
 
